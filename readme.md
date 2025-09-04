@@ -6,3 +6,6 @@
 1. notepad++，这个自然不必说，轻量级编辑器
 2. glogg
 3. klogg
+
+# 终端工具
+1. Windows终端工具，兼容powershell，可以支持多窗口等功能
